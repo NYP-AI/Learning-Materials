@@ -1,10 +1,10 @@
 # 🧰 Welcome to NYP AI's Learning Content Repository 🧰
 
-## Setting Up Your Jupyter Notebooks
+## Setting Jupyter Notebooks
 
 You can set up your jupyter notebook using the following ways as shown below:
 
-- [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index)
+- [Google Colab (Highly-recommended)](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index)
 - [Visual Studio Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
 
 ## Slides 
