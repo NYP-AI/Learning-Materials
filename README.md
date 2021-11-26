@@ -1,4 +1,4 @@
-# 🧰 Welcome to NYP AI's Learning Content Repository 🧰
+# 🧰 Welcome to NYP AI's Content Repository 🧰
 
 # Slides 
 All slides can be found @
