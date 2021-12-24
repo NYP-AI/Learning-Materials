@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sentiment</title>
+</head>
+<body>
+    <form action="/sentiment" method="post">
+        <p>
+            <label for="">Analyze Sentence</label>
+            <input type="text" name="sentimentText">
+        </p>
+        <ul>
+            <li>Positive Score: {{ posAns }}</li>
+            <li>Negative Score: {{ negAns }}</li>
+        </ul>
+        <p>
+            <input type="submit">
+        </p>
+    </form>
+</body>
+</html>
