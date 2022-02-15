@@ -1,6 +1,8 @@
 # ✏️ NYP AI Learning Materials
 Welcome to the repository that houses **NYP AI's learning materials for past projects and events**.
 
+Slides for our learning content in this repository may be found [here](https://drive.google.com/drive/u/5/folders/1oLsZOoj1W8GE5IP3AhUh-YU-G37lleHB).
+
 # 👀 Interested in more?
 **Get to know more** by visiting our website at [nyp.ai](https://nyp.ai/).
 
