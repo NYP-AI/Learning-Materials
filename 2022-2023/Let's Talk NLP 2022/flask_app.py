@@ -17,7 +17,7 @@ vectorizer = pickle.load(loaded_vect)
 import requests
 
 API_URL = "https://api-inference.huggingface.co/models/finiteautomata/bertweet-base-sentiment-analysis"
-headers = {"Authorization": "Bearer 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"}
+headers = {"Authorization": "Bearer <API_KEY>"}
 
 def query(payload):
 	response = requests.post(API_URL, headers=headers, json=payload)
